@@ -9,4 +9,6 @@ Using knowledge of React to use JSX files to create a digital clock app with a b
 * CSS
 * JavaScript
 
+## Completed Date:
+* 13 Apr 2024
 
